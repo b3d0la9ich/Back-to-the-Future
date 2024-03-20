@@ -1,1 +1,1 @@
-The program is written in Python and performs the function of easy use of the web archive
+The program is written on Python and performs the function of easy use of the web archive
